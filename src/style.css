@@ -1,0 +1,49 @@
+.complete {
+  text-decoration: line-through;
+}
+
+#removebtn {
+  margin-left: 20px;
+}
+
+#container input[type="text"], select {
+  line-height: 1.5;
+}
+
+#container input[type="text"] {
+    margin-bottom: 10px;
+    display: block;
+}
+ 
+#container textarea {
+    margin-bottom: 10px;
+    display: block;
+}
+ 
+#container ul {
+    list-style-type: none;
+    padding-left: 0;            
+}
+ 
+#container li {
+    margin: 5px 0;
+    background: #fcfcfc;
+    border: 1px solid #eee;
+    padding: 10px;
+}
+
+#container li input[type="text"] {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+ 
+#container li textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#container button {
+  margin-bottom: 10px;
+} 
